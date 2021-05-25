@@ -6,7 +6,7 @@
 - 📫 How to reach me: Send me a DM on [Instagram][instagram]
 - ⚡ Fun fact: Other than coding I love working on cars myself
 
-## <br />
+<br />
 
 ### Connect with me:
 
@@ -16,6 +16,8 @@
 [<img align="left" alt="kevinskayro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kevinskayro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kevinskayro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### Languages and Tools:
 
