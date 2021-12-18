@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working Full time as a Web Developer (Frontend / Backend)
 - 🌱 I’m currently learning Vue and Laravel
-- 👯 I’m looking to collaborate with a great tech company as Front-end developer
 - 📫 How to reach me: Send me a DM on [Instagram][instagram]
 - ⚡ Fun fact: Other than coding I love working on cars myself
 
