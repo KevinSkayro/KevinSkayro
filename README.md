@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin Castro - aka [Kevin Skayro][website] 👋
 
-- 🔭 I’m currently working on a Login system for a company in Mexico
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working Full time as a Web Developer (Frontend / Backend)
+- 🌱 I’m currently learning Vue and Laravel
 - 👯 I’m looking to collaborate with a great tech company as Front-end developer
 - 📫 How to reach me: Send me a DM on [Instagram][instagram]
 - ⚡ Fun fact: Other than coding I love working on cars myself
