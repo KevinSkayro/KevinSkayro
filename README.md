@@ -1,9 +1,9 @@
 ### Hi there, I'm Kevin Castro - aka [Kevin Skayro][website] 👋
 
 - 🔭 I’m currently working Full time as a Full Stack Web Developer
-- 🌱 I’m currently learning Vue and Laravel
+- 🌱 Always learning
 - 📫 How to reach me: Send me a DM on [Instagram][instagram]
-- ⚡ Fun fact: Other than coding I love working on cars myself
+- ⚡ Fun fact: Other than coding I love working on cars
 
 <br />
 
